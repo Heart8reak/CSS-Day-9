@@ -1,0 +1,16 @@
+{
+  "name": "css_9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+    "homepages":"https://Heart8reak.github.com/CSS-Day-9",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
